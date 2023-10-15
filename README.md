@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pria-pria
+- 👀 I’m good at Django framework.
+- 🌱 I’m currently learning REST APIs' and django rest framework.
