@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @pria-pria
-- 👀 I’m good at Django framework.
-- 🌱 I’m currently learning REST APIs' and django rest framework.
+- I have a solid foundation in python programming.
+- 👀 I’m good at Django, HTML, JavaScript, CSS.
+- 🌱 I am enthusiastic about the opportunity to contribute my skills and continue to explore.
